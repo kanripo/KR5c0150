@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:48:34.784056
+# -*- mode: mandoku-view -*-
 #+TITLE: 太上說玄天大聖真武本傳神咒妙經
-#+PROPERTY: DZID  DZ0754
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，17—90 六卷 洞神部玉訣類
+#+DATE: 2015-08-29 00:48:37
+#+PROPERTY:  LASTPB <PB KR5c0150_SJB_006-170131b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶
+
